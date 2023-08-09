@@ -1,0 +1,75 @@
+.input_chat {
+    width: 197px;
+    height: 20px;
+    color: gray;
+    margin-left: 20px;
+    border: solid rgb(168, 225, 233);
+    font-size: 12px;
+}
+
+.chat_body {
+    width: 400px;
+    height: 300px;
+    box-shadow: 0px 2px 8px 2px rgba(7, 8, 10, 0.3);
+}
+
+.btn-send {
+    margin-top: 20px;
+    margin-left: 5px;
+    width: 65px;
+    height: 28px;
+    background-color: rgb(168, 225, 233);
+    border: none;
+    font-size: 10px;
+} 
+
+.btn-geo {
+    margin-top: 20px;
+    margin-left: 5px;
+    width: 65px;
+    height: 28px;
+    background-color: rgb(168, 225, 233);
+    border: none;
+    font-size: 10px;
+}
+
+#output {
+    border: solid rgb(168, 225, 233);
+    width: 350px;
+    height: 210px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.userP {
+    border: solid rgb(168, 225, 233);
+    border-radius: 20%;
+    width: 100px;
+    height: 20px;
+    text-align: center;
+    margin-left: 200px;
+    font-family: fantasy;
+}
+
+.serverP {
+    border: solid rgb(23, 70, 77);
+    background-color: aquamarine;
+    color: blueviolet;
+    border-radius: 20%;
+    width: 100px;
+    height: 20px;
+    text-align: center;
+    margin-left: 20px;
+    font-family: fantasy;
+}
+
+.geoP {
+    border: solid rgb(168, 225, 233);
+    border-radius: 20%;
+    width: 130px;
+    height: 20px;
+    text-align: center;
+    margin-left: 200px;
+    font-family: fantasy;
+    font-size: 12px;
+}
